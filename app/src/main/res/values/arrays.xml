@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="array_included_fields">
+        <item>@string/name</item>
+        <item>@string/location</item>
+        <item>@string/email</item>
+        <item>@string/login</item>
+        <item>@string/dob</item>
+        <item>@string/phone</item>
+        <item>@string/picture</item>
+    </string-array>
+
+</resources>

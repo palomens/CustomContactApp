@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">CustomContactApp</string>
+
+    <string name="first_name_label">First name: </string>
+    <string name="second_name_label">Second name: </string>
+    <string name="password_label">Password: </string>
+    <string name="birthday_label">Birthday: </string>
+    <string name="email_label">E-mail: </string>
+    <string name="tel_label">Telephone: </string>
+    <string name="address_label">Address: </string>
+
+    <string name="empty_state_string">There are no users in the list yet</string>
+    <string name="empty_state_advise">Click on the ADD button to add new user</string>
+
+    <string name="no_data_from_server_state">No data from server</string>
+    <string name="no_data_from_server_advise">Please try again later</string>
+
+    <string name="no_internet_connection_advise">Please check internet connection</string>
+
+    <!-- strings for building URL-->
+    <string name="key_query_param_format">format</string>
+    <string name="value_query_param_format">json</string>
+    <string name="key_query_param_included_fields">inc</string>
+    <string name="name">name</string>
+    <string name="location">location</string>
+    <string name="email">email</string>
+    <string name="login">login</string>
+    <string name="dob">dob</string>
+    <string name="phone">phone</string>
+    <string name="picture">picture</string>
+
+    <string name="menu_item_delete">delete</string>
+
+</resources>
